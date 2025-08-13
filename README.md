@@ -1,6 +1,7 @@
 # 👯 Sorteador de Amigos
 
-Este proyecto es una pequeña aplicación web para gestionar una lista de amigos y realizar sorteos aleatorios entre ellos. El principal objetivo es fortalecer habilidades en lógica de programación mediante la manipulación dinámica de listas y generación de números aleatorios.
+Este proyecto es una pequeña aplicación web para gestionar una lista de amigos y realizar sorteos aleatorios entre ellos. 
+El principal objetivo es fortalecer habilidades en lógica de programación mediante la manipulación dinámica de listas y generación de números aleatorios.
 
 <img width="1333" height="639" alt="Screenshot 2025-08-12 at 7 18 19 p m" src="https://github.com/user-attachments/assets/08ff191b-f421-4fde-9a65-0cb2ccc35ec1" />
 
